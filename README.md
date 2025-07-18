@@ -207,10 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Contributors** and early adopters providing feedback
 
 ## 📬 Contact & Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/terminal-chatbot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/terminal-chatbot/discussions)
-- **Email**: your.email@example.com
+- **Email**: vishwagunathilake12345@gmail.com
 
 ---
 
